@@ -1,9 +1,15 @@
-# New Color Picker App
+
 
 <div align="center">
-    using vanilla JS
-</div>
-    ![Screen page][screen]
 
-[//]: # (Images)
+# New Color Picker App
+
+<!-- DESCRIPTION -->
+
+    using vanilla JS
+
+![Screen page][screen]
+
 [screen]: img/screenImg.png
+</div>
+
