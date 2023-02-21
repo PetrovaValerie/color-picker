@@ -79,7 +79,7 @@ function updateColorsHash(colors = []) {
         })
         .join('-')
 }
-// в консоли при вызове ф-ии будут отображаться хэши цветов
+
 function getColorsFromHash() {
     if (document.location.hash.length > 1) {
         return document.location.hash
